@@ -1,0 +1,15 @@
+numpy
+scipy
+dgl
+scikit-learn
+pandas
+h5py==2.8.0rc1
+Keras==2.1.6
+tqdm==4.23.4
+unittest2==1.1.0
+Django==4.0.2
+djangorestframework
+django-filter
+markdown
+django-cors-headers==3.5.0
+pika==1.1.0
